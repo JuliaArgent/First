@@ -1,5 +1,6 @@
 import React from "react";
-import { MuiButton } from "./components/MuiButton";
+import { MuiButton } from "./MuiButton";
+
 
 function App() {
   return (
